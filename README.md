@@ -1,4 +1,4 @@
-# awesome-scalable-gnn and knowledge distillation
+# Awesome Graph Augmentation
 Papers about scalable Graph Neural Networks (GNNs) and Knowledge Distilition.
 If you feel there are papers with related topics missing, do not hesitate to let us know (via issues or pull requests).
 
